@@ -1,8 +1,8 @@
-package ar.edu.unlam.pb2.interfaz;
+package ar.edu.unlam.pb2.interfazSpotify;
 
 import java.util.Scanner;
 
-import ar.edu.unlam.pb2.dominio.Sistema;
+import ar.edu.unlam.pb2.dominioSpotify.Sistema;
 
 public class ReproductorDeMusicaMenu {
 

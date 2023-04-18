@@ -4,7 +4,7 @@ public class Sistema {
 
 	// ATRIBUTOS
 	private String nombre = "";
-	private int cantidad_usuarios_max;
+	private int cantidad_usuarios_max; 
 	private int cantidad_canciones_max;
 	private Usuarios[] usuariosGuardados;
 
