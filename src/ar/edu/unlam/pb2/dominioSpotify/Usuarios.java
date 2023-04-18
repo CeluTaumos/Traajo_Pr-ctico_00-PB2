@@ -1,12 +1,12 @@
 package ar.edu.unlam.pb2.dominioSpotify;
 
 public class Usuarios {
-	
+	//comentario 
 	//ATRIBUTOS
 	private String nombreDelUsuario;
 	private String correo;
 	private String contra;
-	public Usuarios(String nombreDelUsuario, String correo, String contra) {
+public Usuarios(String nombreDelUsuario, String correo, String contra) {
 		super();
 		this.nombreDelUsuario = nombreDelUsuario;
 		this.correo = correo;
