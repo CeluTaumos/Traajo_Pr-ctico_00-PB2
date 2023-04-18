@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.dominio;
+package ar.edu.unlam.pb2.dominioSpotify;
 
 public class Sistema {
 
